@@ -23,13 +23,21 @@ A juicy match 3 game taken from very basic design to a final product with added 
   Bird noise-https://freesound.org/people/xtrgamr/sounds/441633/
 ## Features added 
 Changing color 
+
 Animate elements when selected
+
 Shake screen when something good happens
+
 add sound effects 
+
 Add music 
+
 Change of icons
+
 Particles when match 
+
 Add particles when removed 
+
 Rotate when matched 
 ## References
 Based on a Match-3 project created by [Mister Taft Creates](https://github.com/mistertaftcreates/Godot_match_3) (with an accompanying [YouTube series](https://www.youtube.com/playlist?list=PL4vbr3u7UKWqwQlvwvgNcgDL1p_3hcNn2))

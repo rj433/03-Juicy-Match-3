@@ -5,13 +5,21 @@ A juicy match 3 game taken from very basic design to a final product with added 
 
 ## Implementation
   Amigos_script(font for game)- https://fontesk.com/amigos-script-font/
+  
   Kenny-animalpack(assets for animals)- https://kenney.nl/assets/animal-pac
+  
   Puzzle-pack-ii(downloaded for particles(not used))-https://kenney.nl/assets/puzzle-pack-2
+  
   Elephant noise-https://freesound.org/people/y89312/sounds/139875/
+  
   Pig noise-https://freesound.org/people/InspectorJ/sounds/439520/
+  
   Snake noise- https://freesound.org/people/Garuda1982/sounds/541656/
+  
   Rabbit noise- https://freesound.org/people/pan14/sounds/334034/
+  
   Monkey noise- https://freesound.org/people/AntumDeluge/sounds/417817/
+  
   Bird noise-https://freesound.org/people/xtrgamr/sounds/441633/
 ## Features added 
 Changing color 
